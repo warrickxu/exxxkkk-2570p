@@ -1,2 +1,2 @@
 Git is a distributed  version contral system
-free of charge.
+free of charge and under GPL.
