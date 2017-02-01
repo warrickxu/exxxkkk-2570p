@@ -1,2 +1,2 @@
-Git is a distributed  version contral system
-free of charge and under GPL.
+root folder of webapp
+author:exxxkkk
